@@ -1,1 +1,1 @@
-insert into bears (name, age, gender, color, temperament, alive)
+insert into bears (name, age, gender, color, temperament, alive) values ()
